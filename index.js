@@ -15,7 +15,7 @@ var rewards = {
         stability: 0.3, // elevenlabs stability 0.0 - 1.0
         similarityBoost: 0.8, // elevenlabs similarityBoost 0.0 - 1.0
     },
-    "Brian (Normal TTS)": {
+    "Text to speech": {
         // reward name (must be the same as the reward name in twitch !! case sensitive)
         ttsCharacterLimit: 500, // max characters to send
         type: "streamelements", // streamelements or elevenlabs
