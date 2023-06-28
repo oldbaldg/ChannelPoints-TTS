@@ -1,12 +1,12 @@
 // ELEVENLABS PARAMETERS https://beta.elevenlabs.io/
-var apiKey = "XXXXXXXXX"; // your elevenlabs api key
+var apiKey = "1c3a87853aaaa23152e491037611d6c2"; // your elevenlabs api key
 
 // TWITCH PARAMETERS
-var channelId = "1234567"; // your twitch channel id
+var channelId = "193098877"; // your twitch channel id
 
 // rewards
 var rewards = {
-    "AI radd (TTS)": {
+    "Text to speech": {
         // reward name (must be the same as the reward name in twitch !! case sensitive)
         ttsCharacterLimit: 300, // max characters to send
         type: "elevenlabs", // elevenlabs or streamelements
