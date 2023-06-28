@@ -10,7 +10,7 @@ var rewards = {
         // reward name (must be the same as the reward name in twitch !! case sensitive)
         ttsCharacterLimit: 300, // max characters to send
         type: "elevenlabs", // elevenlabs or streamelements
-        voiceId: "pNInz6obpgDQGcFmaJgB", // elevenlabs voice id
+        voiceId: "21m00Tcm4TlvDq8ikWAM", // elevenlabs voice id
         volume: 1, // volume 0.0 - 1.0
         stability: 0.3, // elevenlabs stability 0.0 - 1.0
         similarityBoost: 0.8, // elevenlabs similarityBoost 0.0 - 1.0
