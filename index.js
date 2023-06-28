@@ -1,5 +1,5 @@
 // ELEVENLABS PARAMETERS https://beta.elevenlabs.io/
-var apiKey = "1c3a87853aaaa23152e491037611d6c2"; // your elevenlabs api key
+var apiKey = "b87772b7c5d74b9ead5861d2be19aeb6"; // your elevenlabs api key
 
 // TWITCH PARAMETERS
 var channelId = "193098877"; // your twitch channel id
@@ -31,7 +31,7 @@ var rewards = {
 // -----------------
 // DEBUG PARAMETERS
 // -----------------
-var testTTSOnLoad = true; // debug mode to test. true = F5 to play text false = nothing leave this on false if you dont plan to change the code
+var testTTSOnLoad = false; // debug mode to test. true = F5 to play text false = nothing leave this on false if you dont plan to change the code
 var testTTS = "Brian (Normal TTS)"; // reward name to test
 var testText = "Hello world"; // text to test
 
