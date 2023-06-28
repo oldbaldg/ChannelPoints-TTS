@@ -31,7 +31,7 @@ var rewards = {
 // -----------------
 // DEBUG PARAMETERS
 // -----------------
-var testTTSOnLoad = false; // debug mode to test. true = F5 to play text false = nothing leave this on false if you dont plan to change the code
+var testTTSOnLoad = true; // debug mode to test. true = F5 to play text false = nothing leave this on false if you dont plan to change the code
 var testTTS = "Brian (Normal TTS)"; // reward name to test
 var testText = "Hello world"; // text to test
 
